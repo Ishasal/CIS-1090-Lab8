@@ -14,13 +14,17 @@ html {
 
 body {
   padding: 25px;
+  background-color: skyblue;
 }
 
 #game {
   padding: 10px;
+  margin: auto;
   width: 100%;
+  max-width: 800px;
   height: 400px;
-  border: 1px solid #aaa;
+  border: 5px dashed #555;
+  background-color: lawngreen;
   position: relative;
 }
 
